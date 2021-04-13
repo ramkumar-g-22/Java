@@ -11,13 +11,13 @@ public class GradeApp {
 	public static void main(String[] args) {
 		getMarks();
 		percentage = calculatePercentage();
-//		display();
+		display();
 		
 //		int a = 100;
 //		int sq = square(a);
 //		System.out.println(sq);
 //
-//		sc.close();
+		sc.close();
 	}
 
 //	private static int square(int a) {
